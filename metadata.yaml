@@ -12,12 +12,17 @@ contributor:
     gutenberg_agent_id: '8637'
     url: http://www.gutenberg.org/2009/agents/8637
     wikipedia: https://en.wikipedia.org/wiki/Charles_M._Relyea
+covers:
+- cover_type: archival
+  image_path: 72873-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Turner, G. Frederic
     gutenberg_agent_id: '56844'
     url: http://www.gutenberg.org/2009/agents/56844
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72873#Gloria
 gutenberg_issued: '2024-02-04'
 gutenberg_type: Text
 identifiers:
